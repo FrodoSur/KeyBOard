@@ -1,0 +1,10 @@
+C:\Users\Desp\source\repos\KeyBOard\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Desp\source\repos\KeyBOard\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Desp\source\repos\KeyBOard\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Desp\source\repos\KeyBOard\bin\Debug\netcoreapp3.1\KeyBOard.exe
+C:\Users\Desp\source\repos\KeyBOard\obj\Debug\netcoreapp3.1\KeyBOard.csprojAssemblyReference.cache
+C:\Users\Desp\source\repos\KeyBOard\obj\Debug\netcoreapp3.1\KeyBOard.AssemblyInfoInputs.cache
+C:\Users\Desp\source\repos\KeyBOard\obj\Debug\netcoreapp3.1\KeyBOard.AssemblyInfo.cs
+C:\Users\Desp\source\repos\KeyBOard\obj\Debug\netcoreapp3.1\KeyBOard.RazorTargetAssemblyInfo.cache
+C:\Users\Desp\source\repos\KeyBOard\obj\Debug\netcoreapp3.1\staticwebassets\KeyBOard.StaticWebAssets.Manifest.cache
+C:\Users\Desp\source\repos\KeyBOard\obj\Debug\netcoreapp3.1\staticwebassets\KeyBOard.StaticWebAssets.xml
